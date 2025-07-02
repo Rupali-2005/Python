@@ -24,3 +24,16 @@ I’m using this repository to both track my progress and showcase my consistenc
 -  First step toward real-world project
 ---
 
+## Scripts Included
+
+- `basic_io.py`: Demonstrates basic input/output operations.
+- `conditional_statement.py`: Examples of if-else statements.
+- `loops_basic.py`: For and while loop examples.
+- `functions_basics.py`: Basics of defining and calling functions.
+- `list_operations.py`: Common operations on lists.
+- `dictionary_basics.py`: Dictionary creation and usage.
+- `file_handling.py`: Reading and writing files.
+- `oop_basics.py`: Introduction to classes and objects.
+- `patterns.py`: Various pattern printing scripts.
+- `exception.py`: Handling errors using try-except.
+- (Add the rest similarly...)
